@@ -6,7 +6,7 @@ from pypresence import Presence
 
 def main():
     API_KEY = ""  # get a key at https://www.weatherbit.io/account/create
-    CLIENT_ID = ""
+    CLIENT_ID = "" # get an id at https://discord.com/developers/applications/
     # Parameters below at https://www.weatherbit.io/api
     CITY_NAME = ""
     COUNTRY = ""
